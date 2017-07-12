@@ -1,1 +1,5 @@
-hello: "Hello from the config file stored in github"
+hello: "*** Hello world. I'm on github ***"
+color: lightblue
+logging:
+  level:
+    com.gqlifesciences: 'INFO'

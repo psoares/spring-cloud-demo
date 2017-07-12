@@ -1,5 +1,5 @@
 hello: "*** Hello world. I'm on github ***"
-color: lightblue
+color: lime
 logging:
   level:
     com.gqlifesciences: 'INFO'

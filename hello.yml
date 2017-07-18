@@ -1,4 +1,4 @@
-hello: "*** Hello world. I'm on github ***"
+hello: "This configuration is stored on github"
 color: lime
 logging:
   level:
